@@ -1,3 +1,23 @@
+<table>
+  <tr>
+    <td><b>Nama</b></td>
+    <td>Rian Setiawan</td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td>24552012025</td>
+  </tr>
+  <tr>
+    <td><b>Kelas</b></td>
+    <td>TIF K 23B</td>
+  </tr>
+  <tr>
+    <td><b>UTS</b></td>
+    <td>Pemograman Mobile2</td>
+  </tr>
+</table>
+
+Berikut adalah tampilan UI nya:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f47dfe0b-9510-4bf9-b674-e0197c4de181" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d0284a3-ec9b-4967-a526-3b4e0c127d5d" />
